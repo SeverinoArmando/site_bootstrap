@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand img{
+    width: 70px;
+    height: 70px;
+    box-shadow: 0px 5px 25px rgb(196, 154, 75);
+}
+.navbar{
+    margin-top: 0;
+}
+
+.fundo{
+    background-color: rgb(230, 140, 107);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    color: white;
+}
+.sect
+{
+    box-shadow: 0px 25px 25px black;
+    margin-bottom: 20px;
+}
+.cent{
+    width: 70%;
+    height: 70%;
+    border-radius: 90in;
+    margin-top: 30px;
+    box-shadow: 0px 20px 55px rgb(0, 0, 0);
+}
+.tm{
+   width: 30px; 
+   height: 30px;
+}
+
